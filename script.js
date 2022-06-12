@@ -5,3 +5,9 @@ let search_grades_div = document.getElementById("search-grades");
 let A_grades_div = document.getElementById("A-grades");
 let bonus_grades_div = document.getElementById("bonus-grades");
 let random_grade_div = document.getElementById("random-grade");
+
+
+function search() {
+  let inputValue = document.getElementById("input").value;
+  
+}
