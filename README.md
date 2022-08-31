@@ -17,7 +17,7 @@
 4. احذف اخر درجة في مصفوفة grades
 5. اضف درجة قيمتها 99 إلى مصفوفة grades
 6. اعرض جميع الدرجات في all_grades_div، بالصيغة التالي:<br>
-`<span> #${index}: ${grade} </span>`
+`<span> ${grade} </span>`
 7. احفظ التغييرات 
 
 <p dir="rtl">
