@@ -48,8 +48,9 @@
 1. قم بتعديل قيمة الخاصية `studentsCount` في الكائن `course` الى 40
 2. قم بتعديل قيمة الخاصية `track` في الكائن `course` الى web
 3. الأن بإستخدام الكائن و console log اجعله يطبع قيم الكائن بالصيغة التاليه
-<br>`اهلا، انا ادرس في (قيمة name من الكائن) وتحديدا في مسار (قيمة track من الكائن)`
+<br>`Hello my name is (...), i'm in (track value from object) at (name value from object)`
 4. انشئ كائن جديد بإسم student ولديه الخصائص الأتيه `name,universty` وقم بتعبئتها حسب معلوماتك
+5. احفظ التغييرات وارفعها في github و Coded Lab
 
 
 <p dir="rtl">
