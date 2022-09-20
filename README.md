@@ -32,7 +32,7 @@
  <strong><a href="https://docs.google.com/document/d/1Rab4nSH6zE89OLp72VEZBqza52WgFJ48MxNPkBpssc8/edit#">الجزء الثاني</a></strong></p>
 
 1. عرف متغير randomIndex واستخدم دالة Math.random لتنتج متغير عشوائي من 0 إلى عدد المتغيرات في مصفوفة grades
-<br>`Hint: use grades.length`<br>
+<br>`randomIndex = Math.floor(Math.random() * grades.length)`<br>
 2. اعرض قيمة الدرجة عند الرقم العشوائي في random_grade_div، بالصيغة التالية:<br>
 `<span> #${randomIndex}: ${grades[randomIndex]} </span>`
 3. احفظ التغييرات
