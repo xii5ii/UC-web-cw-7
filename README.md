@@ -16,8 +16,8 @@
 3. افتح ملف script.js وابدأ الحل
 4. احذف اخر درجة في مصفوفة grades
 5. اضف درجة قيمتها 99 إلى مصفوفة grades
-6. اعرض جميع الدرجات في all_grades_div، بالصيغة التالي:<br>
-`<span> ${grade} </span>`
+6. اعرض جميع الدرجات في all_grades_div، بإستخدام forEach بالصيغة التاليه :<br>
+ `<all_grades_div.innerHTML += <span>${item}<span ` 
 7. احفظ التغييرات 
 
 <p dir="rtl">
@@ -34,7 +34,7 @@
 1. عرف متغير randomIndex واستخدم دالة Math.random لتنتج متغير عشوائي من 0 إلى عدد المتغيرات في مصفوفة grades
 <br>`randomIndex = Math.floor(Math.random() * grades.length)`<br>
 2. اعرض قيمة الدرجة عند الرقم العشوائي في random_grade_div، بالصيغة التالية:<br>
-`<span> #${randomIndex}: ${grades[randomIndex]} </span>`
+`<random_grade_div.innerHTML = <span>#${randomIndex}: ${grades[randomIndex]}<span ` 
 3. احفظ التغييرات
 
 
