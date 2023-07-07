@@ -9,16 +9,12 @@
  <strong><a href="https://docs.google.com/document/d/1-yaUk4FLViYxKpyzCAoV314MNGzfRxGr1QFT5bY5wHc/edit#">الجزء الاول</a></strong></p>
 
 
-
-
-1. قم بعمل fork للـ repository
-2. افتح الـ repository باستخدام github desktop
-3. افتح ملف script.js وابدأ الحل
-4. احذف اخر درجة في مصفوفة grades
-5. اضف درجة قيمتها 99 إلى مصفوفة grades
-6. اعرض جميع الدرجات في all_grades_div، بإستخدام forEach بالصيغة التاليه :<br>
+1. افتح ملف script.js وابدأ الحل
+2. احذف اخر درجة في مصفوفة grades
+3. اضف درجة قيمتها 99 إلى مصفوفة grades
+4. اعرض جميع الدرجات في all_grades_div، بإستخدام forEach بالصيغة التاليه :<br>
  `` all_grades_div.innerHTML += `<span>${item}<span>` `` 
-7. احفظ التغييرات 
+5. احفظ التغييرات 
 
 <p dir="rtl">
 <strong>بونص✨! </strong></p>
@@ -50,7 +46,8 @@
 3. الأن بإستخدام الكائن و console log اجعله يطبع قيم الكائن بالصيغة التاليه
 <br>`Hello my name is (...), i'm in (track value from object) at (name value from object)`
 4. انشئ كائن جديد بإسم student ولديه الخصائص الأتيه `name,universty` وقم بتعبئتها حسب معلوماتك
-5. احفظ التغييرات وارفعها في github و Coded Lab
+5. احفظ التغييرات وارفعها في Coded Lab
+   
 
 
 <p dir="rtl">
