@@ -6,6 +6,10 @@
  
 ### اليوم راح نسوي موقع نعرض فيه أفلامنا ! 🎥 
 
+<div align="center">
+<img src="./assets/result.png" width="700px" height="400px" alt="the result" >
+</div>
+
 <p dir="rtl">
  <strong><a href="https://docs.google.com/document/d/1-yaUk4FLViYxKpyzCAoV314MNGzfRxGr1QFT5bY5wHc/edit#">الخطوات</a></strong></p>
 
